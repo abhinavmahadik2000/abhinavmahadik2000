@@ -1,4 +1,7 @@
 <img src="https://github.com/abhinavmahadik2000/abhinavmahadik2000/blob/main/me.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;"/>
+<div style="text-align: center;">
+  <img src="https://github.com/abhinavmahadik2000/abhinavmahadik2000/blob/main/me.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
+</div>
 
 
 # 💫 About Me:
