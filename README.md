@@ -1,7 +1,3 @@
-Here's a more engaging and tech-focused version of your GitHub README:
-
----
-
 # Hey there, I'm Abhinav! 👋  
 ## 🧑🏻‍💻 Full-Stack Developer | 📊 Data Scientist | 🧠 Machine Learning Enthusiast  
 ---
