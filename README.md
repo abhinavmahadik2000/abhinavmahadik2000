@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Hey! I'm Abhinav
+## 🧑🏻‍💻 Software Development Engineer | 📊 Data Science | 🧠 Machine Learning Enthusiast 
+### 💫 About Me:
 🔭 I’m currently working on developing an AI-driven application that tailors resumes and cover letters for job seekers, focusing on ATS optimization and advanced customization.<br>👯 I’m looking to collaborate on full-stack web development projects, particularly those involving AI and cloud technologies.<br>🤝 I’m looking forward on enhancing the user experience and refining the AI models for better resume and cover letter customization.<br>🌱 I’m currently learning advanced state management patterns and in-depth techniques for optimizing AI-driven applications.<br>💬 Ask me about juggling React and Python to build cool stuff, making cloud-based magic happen, or how AI can help you craft the perfect resume without breaking a sweat.<br>⚡ I’m a tech enthusiast who loves tinkering with scalable systems. I find joy in mixing AI with web development, kind of like making the ultimate tech smoothie!<br>
 
 
