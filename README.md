@@ -38,7 +38,7 @@ Here's a more engaging and tech-focused version of your GitHub README:
 
 ### ⚡ Fun Fact:
 
-#### I like to think of my projects as tech experiments—sometimes they succeed in unexpected ways, and other times, they crash spectacularly (but hey, that’s how we learn, right?). When I’m not coding, you’ll find me immersed in research or devouring the latest newsletters to stay on the cutting edge of Generative AI🤖 advancements.
+- I like to think of my projects as tech experiments—sometimes they succeed in unexpected ways, and other times, they crash spectacularly (but hey, that’s how we learn, right?). When I’m not coding, you’ll find me immersed in research or devouring the latest newsletters to stay on the cutting edge of Generative AI🤖 advancements.
 ---
 
 ## 🌍 Connect with Me:
