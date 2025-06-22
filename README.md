@@ -23,11 +23,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 Currently building an **AI-powered resume optimization platform** with **ATS integration**
+- 🔭 Currently building **AI Agents** with **LangChain** and cutting-edge LLMS
 - 🚀 Developing **end-to-end web applications** that seamlessly integrate **AI/ML models**
 - 💻 Passionate about **cloud architecture** and **scalable AI systems**
 - 🎯 Exploring **advanced state management** and **AI-driven optimization**
-- 🌱 Learning **Generative AI** and staying updated with the latest tech trends
+- 🌱 Learning **Generative AI** and staying ahead of the curve
 - ⚡ Fun fact: I treat every project as a tech experiment - some succeed spectacularly, others crash beautifully! 🎢
 
 <br clear="both"/>
