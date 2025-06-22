@@ -62,7 +62,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40"> Current Projects
 
-<div align="center">
+<div>
   
 ### 🤖 AI-Powered Resume Builder
 *Revolutionizing job applications with NLP and ML*
@@ -124,20 +124,7 @@
 
 
 </div>
----
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="40"> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122003-7b8df9d9-2c84-4e95-b12d-935c62414714.gif" width="40"> Ask Me About
 
