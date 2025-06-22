@@ -51,8 +51,8 @@
       </td>
       <td align="center">
         <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>
-        <strong>Cloud Solutions</strong><br>
-        Architecting robust AWS infrastructure
+        <strong>LLMs</strong><br>
+        Building resilient automation agents to handle complex tasks
       </td>
     </tr>
   </table>
