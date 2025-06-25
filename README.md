@@ -60,20 +60,22 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40"> Current Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40"> Ask Me About
 
 <div>
-  
-### 🤖 AI-Powered Resume Builder
-*Revolutionizing job applications with NLP and ML*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-**Features:**
-- 🎯 ATS Optimization Engine
-- 📝 Smart Cover Letter Generation  
-- 🔍 Job Description Matching
-- 📊 Success Rate Analytics
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <table>
+    <tr>
+      <td>💻 <strong>Full-Stack Magic</strong><br>Balancing React frontend with Python/Node.js backend</td>
+      <td>☁️ <strong>Cloud Architecture</strong><br>Scalable AWS solutions for modern web apps</td>
+    </tr>
+    <tr>
+      <td>🤖 <strong>AI Integration</strong><br>Building intelligent, data-driven applications</td>
+      <td>📊 <strong>Data Science</strong><br>ML models and advanced analytics</td>
+    </tr>
+  </table>
+</div>
 
 </div>
 
@@ -126,21 +128,6 @@
 </div>
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-7b8df9d9-2c84-4e95-b12d-935c62414714.gif" width="40"> Ask Me About
-
-<div align="center">
-  <table>
-    <tr>
-      <td>💻 <strong>Full-Stack Magic</strong><br>Balancing React frontend with Python/Node.js backend</td>
-      <td>☁️ <strong>Cloud Architecture</strong><br>Scalable AWS solutions for modern web apps</td>
-    </tr>
-    <tr>
-      <td>🤖 <strong>AI Integration</strong><br>Building intelligent, data-driven applications</td>
-      <td>📊 <strong>Data Science</strong><br>ML models and advanced analytics</td>
-    </tr>
-  </table>
-</div>
-
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.gif" width="40"> Let's Connect!
 
@@ -160,5 +147,5 @@
   
   ### ⭐ Don't forget to star my repositories if you find them interesting!
   
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhinavmahadik2000&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
