@@ -58,10 +58,7 @@
   </table>
 </div>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/abhinavmahadik?theme=transparent&font=Source%20Sans%203&ext=heatmap" alt="LeetCode Stats" />
-</p>
----
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40"> Ask Me About
 
